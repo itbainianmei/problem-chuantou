@@ -1,0 +1,102 @@
+@charset "UTF-8";
+/*B端新加的 0.3版需求 */
+.lh20{line-height:0.5rem;}.lh2-5{line-height: 2.5rem;}.lh40{line-height: 2.0rem}.lh60{line-height: 3.0rem}.lh70{line-height: 3.5rem}.lh80{line-height: 4rem}.lh90{line-height: 4.55rem}.lh100{line-height:5rem;}
+.h2{height:0.15rem;}.h30{height:1.5rem;}.hp40{height:2.0rem;}.h40{height:1.0rem;}.h50{height:2.5rem;}.hb30{height:30%;}.h63{height:60.4%;}.h70{height: 3.5rem}.h80{height:4rem;}.h88{height:4.4rem;}.h90{height:4.5rem;}.h100{height:5rem;}.lh50{line-height: 2.5rem;}.h130{height:6.5rem;}.h500{height:25.0rem;} /*background:red;*/
+.w0{width:0;}.w44-5{width:50%;}.w14{width:14%;}.w23{width:23%;}.w27-5{width:27.5%;}.w33-3{width:33.3%;}.w33-5{width:33.5%;}.w46{width:46%;}.w56{width:56%;}.w66-5{width:66.5%;}.w72-5{width:71.6%;}.wp40{width:40%;}.w50{width:44.5%;}.w57{width:57%;}.wp60{width:60%;}.wb78{width:78%;}.w100{width:100%;}.w200{width:10.0rem;}.w71{width:73.5%;}
+.right{right: 1rem;}.right1-3{right:1.3rem;}.mt4{margin-top: 0.2rem;}
+.max-width{max-width: 74%;}.w340{width:17.0rem;}
+.mt5{margin-top: 0.25rem;}.mt16{margin-top: 0.78rem}.mt46{margin-top: 2.3rem;}.mt42{margin-top: 2.1rem;}.mt56{margin-top: 2.8rem;}.mt100{margin-top: 5rem;}.mt160{margin-top: 8rem;}
+.ml15{margin-left: 0.75rem;}.ml40{margin-left: 2rem;}.ml60{margin-left: 3rem;}.mr48{margin-right: 2.4rem;}.mr54{margin-right: 2.7rem;}
+.mr15{margin-right: 0.75rem;}.mr40{margin-right:2rem;}.mr50{margin-right:2.5rem;}.mr70{margin-right: 3.5rem;}.mr72{margin-right: 3.6rem;}.mr90{margin-right: 4.5rem;}
+.pt16{padding-top: 0.8rem}.pt25{padding-top: 1.25rem}.pt35{padding-top: 1.75rem}.pt50{padding-top: 2.5rem}.pb25{padding-bottom: 1.25rem}.pb35{padding-bottom: 1.75rem}.p10{padding:0.20rem;} .pb50{padding-bottom: 2.5rem;}.pr54{padding-right:2.7rem;}.pb16{padding-bottom: 0.8rem;}
+.none{display: none;}.border-r{border-right: 1px solid #ddd;}.pl40{padding-left: 2rem;}.pt1{padding-top: 0.05rem}.pr40{padding-right: 2.0rem;}
+.block{display: block;}.i-block{display: inline-block;}
+.fs50{font-size: 2.5rem;}
+.border-ff6d00{border:1px solid #ff6d00;}
+.cf16130{color:#f16130;}.cff6d00{color:#ff6d00;}.cred{color:red;}.cccc{color:#ccc;}
+.bgf16130{background: #f16130;}.bgecebe9{background: #ecebe9;}.bgff6d00{background:#ff6d00;}.bge56303{background:#e56303;}
+.bgf3f3f3{background: #f3f3f3;}.bgccc{background: #ccc;}.bgeee{background: #eee;}.bgred{background: red;}
+.c000{color:#000;}.bgddd{background: #ddd;}.bgededed{background: #ededed;}
+.border-b{border-bottom: 1px solid #ddd;}.border-t{border-top: 1px solid #ddd;}
+.border-orange{border:1px solid #ff6d00;}
+.border-ra{border-radius: 0.5rem;}
+.f-bold{font-weight: 600;}
+.ffamily{font-family: '黑体',"Helvetica Neue",Helvetica,sans-serif;;}
+.of-hidden{overflow: hidden;}
+.bfixed{position: fixed;right:0;top:0;}
+.bor-t{border-top:1px solid #eee;}
+.ver-mid{vertical-align: middle;}
+.boxsizing{box-sizing:initial;}
+.tran-duration{
+	transition-duration: 2s;
+	-webkit-transition-duration: 2s;
+	-moz-transition-duration: 2s;
+	-o-transition-duration: 2s;
+	opacity: 1;
+}
+.domove
+{
+animation: mymove 0.5s forwards;
+-webkit-animation: mymove 0.5s forwards;	/* Safari 和 Chrome */
+-o-animation: mymove 0.5s forwards;	/* Opera */
+}
+@keyframes mymove
+{
+	from {bottom:-27.7rem;}
+	to {bottom:18rem;}
+}
+@-webkit-keyframes mymove
+{
+	from {bottom:-27.7rem;}
+	to {bottom:18rem;}
+}
+.bgfff2{background: rgba(255,255,255,0.9);}
+.br-radius{border-radius:0 0 0.3rem 0rem;}
+.bl-radius{border-radius:0 0 0 0.3rem;}
+.blr-radius{border-radius:0 0 0.3rem 0.3rem;}
+/*右侧菜单开始*/
+.specifications{width:6.0rem;height:2.0rem;line-height:2rem;text-align:center;border-radius: 1rem;background: #f98b59;color:#fff;font-size: 1.5rem;}
+.img{width:7rem;height:6.0rem;}
+.img-reduce,
+.img-add,
+.shop-img-reduce,
+.shop-img-add{width:2.5rem;height:2.5rem;}
+.specifications{width:6.0rem;height:2.0rem;line-height:2rem;text-align:center;border-radius: 1rem;background: #f98b59;color:#fff;font-size: 1.5rem;}
+/*右侧菜单结束*/
+/*点单详情开始*/
+.bg4dbdad{background: #4dbdad;}.bgeee{background: #eee;}.mtf0-2{margin-top: -0.2rem;}.mt0-2{margin-top: 0.2rem;}.h114{height:5.7rem;}.h398{height:19.9rem;}.lh114{line-height: 5.7rem}
+.jt1{width:1.0rem;height:1.7rem;}.wb50{width:50%;}.w200{width:10.0rem;}.w320{width:16.0rem;}.h190{height:9.5rem;}
+.active-gray:active{background: #ddd;}.c4dbdad{color:#4dbdad;}.cf98b59{color:#f98b59;}
+.single-product-label{width:28.0rem;height:25rem;z-index:4;top:50%;left:50%;margin-top:-15rem;margin-left: -14rem;}
+.single-product-name{height:5.8rem;line-height: 5.8rem;}
+.lable-product{border-radius: 1.6rem;padding:0.5rem 1.5rem;}
+.lable-product2{border-radius: 1.6rem;padding:0.5rem 1.5rem;border:1px solid #f98b59;color:#f98b59;}
+.lable-product3{border-radius: 1.6rem;padding:0.5rem 2.5rem;}
+.back{width:1.5rem;height:2.5rem;}.back2{width:1rem;height:1.7rem;}
+.eat-way{width:26.0rem;height:16.5rem;z-index:4;top:50%;left:50%;margin-top:-8.25rem;margin-left: -13rem;}
+.time-left,.time-right{overflow-y: scroll;}
+.eat-time{width:26.0rem;height:31.5rem;z-index:4;top:50%;left:50%;margin-top:-15.75rem;margin-left: -13rem;}
+.act{width:1.8rem;height:1.2rem;}
+.per-no-container{width:26.0rem;height:27.0rem;z-index:4;top:50%;left:50%;margin-top:-13.5rem;margin-left: -13rem;}
+.per-no{height:15.4rem;width:100%;}
+.line1,.line2{background: #4dbdad;height:1px;width:6.5rem;z-index: 8;left:10rem;}
+.line1{top:5rem;}
+.line2{top:10rem;}
+.person{top:6.65rem;left:18.5rem;z-index:9;}
+.wait{bottom:0;}
+.bgdialog{background: rgba(0,0,0,0.6);}.dialog{line-height:5rem;width:15rem;height:5rem;top:50%;margin-top: -2.5rem;left:50%;margin-left: -7.5rem;border-radius: 4.5rem;}
+/*点单详情结束*/
+/*结账开始*/
+.account{bottom:0;}
+.pay-way{width:26.0rem;height:27.7rem;z-index:4;bottom:-28.0rem;left:50%;margin-left: -13rem;}
+.act-g{width:1.8rem;height:1.2rem;}
+#paySuccess:active,#payBtn:active{background: #4bddcd;}
+/*结账结束*/
+/*收款成功开始*/
+.money{height:21.0rem;}
+.suc{height:6rem;width:6rem;}
+/*收款成功结束*/
+/*作废弹框开始*/
+.mt60{margin-top: 3.0rem;}
+.deleteCon{width:26.0rem;height:13.5rem;z-index:4;top:50%;margin-top:-7rem;left:50%;margin-left: -13rem;}
+/*作废弹框结束*/

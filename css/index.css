@@ -1,0 +1,148 @@
+.lh20{line-height:0.5rem;}.lh2-5{line-height: 2.5rem;}.lh40{line-height: 2.0rem}.lh60{line-height: 3.0rem}.lh70{line-height: 3.5rem}.lh90{line-height: 4.55rem}.lh100{line-height:5rem;}
+.h2{height:0.15rem;}.h30{height:1.5rem;}.h40{height:1.0rem;}.hb30{height:30%;}.h63{height:60.4%;}.h70{height: 3.5rem}.h80{height:4rem;}.h88{height:4.4rem;}.h90{height:4.5rem;}.h100{height:5rem;}.lh50{line-height: 2.5rem;}.h130{height:6.5rem;}.h500{height:25.0rem;} /*background:red;*/
+.w0{width:0;}.w44-5{width:50%;}.w14{width:14%;}.w23{width:23%;}.w27-5{width:27.5%;}.w33-3{width:33.3%;}.w33-5{width:33.5%;}.w46{width:46%;}.w66-5{width:66.5%;}.w72-5{width:71.6%;}.wp40{width:40%;}.w50{width:44.5%;}.w57{width:57%;}.wp60{width:60%;}.wb78{width:78%;}.w100{width:100%;}.w200{width:10.0rem;}.w71{width:73.5%;}
+.right{right: 1rem;}.right1-3{right:1.3rem;}.w120{width:6rem;}
+.max-width{max-width: 74%;}.w340{width:17.0rem;}
+.mtf0-14{margin-top: -0.14em;}.mtf20{margin-top: -0.5em;}.mt16{margin-top: 0.78rem}.mt24{margin-top: 1.2rem;}.mt40{margin-top: 2rem;}.mt46{margin-top: 2.3rem;}.mt50{margin-top: 2.5rem;}.mt25{margin-top: 1.25rem;}.mt56{margin-top: 2.8rem;}.mt160{margin-top: 8rem;}
+.ml15{margin-left: 0.75rem;}.ml40{margin-left: 2rem;}.ml60{margin-left: 3rem;}.mr48{margin-right: 2.4rem;}.mr54{margin-right: 2.7rem;}
+.mr15{margin-right: 0.75rem;}.mr40{margin-right:2rem;}.mr50{margin-right:2.5rem;}.mr70{margin-right: 3.5rem;}.mr72{margin-right: 3.6rem;}.mr90{margin-right: 4.5rem;}
+.pl40{padding-left: 2rem;}.pt16{padding-top: 0.8rem}.pt25{padding-top: 1.25rem}.pt50{padding-top: 2.5rem}.pt35{padding-top: 1.75rem}.pb25{padding-bottom: 1.25rem}.pb35{padding-bottom: 1.75rem}.plr{padding:0 0.0875rem;}.ptb{padding:0.3rem 0rem;}.p10{padding:0.20rem;} .pb50{padding-bottom: 2.5rem;}.pr54{padding-right:2.7rem;}.pb16{padding-bottom: 0.8rem;}
+.none{display: none;}.border-r{border-right: 1px solid #ddd;}
+.block{display: block;}.i-block{display: inline-block;}
+.fs50{font-size: 2.5rem;}
+.border-ff6d00{border:1px solid #ff6d00;}
+.cf16130{color:#f16130;}.cff6d00{color:#ff6d00;}.cf98b59{color:#f98b59;}.cred{color:red;}.cccc{color:#ccc;}
+.bgf16130{background: #f16130;}.bgf98b59{background: #f98b59;}.bgecebe9{background: #ecebe9;}.bgff6d00{background:#ff6d00;}.bge56303{background:#e56303;}
+.bgf3f3f3{background: #f3f3f3;}.bgccc{background: #ccc;}.bgeee{background: #eee;}.bgred{background: red;}.bg333{background: #333;}
+.c000{color:#000;}.bgddd{background: #ddd;}.bg4dbdad{background: #4dbdad;}.bgb9b9b9{background: #b9b9b9;}.bgededed{background: #ededed;}
+.border-b{border-bottom: 1px solid #ddd;}.border-t{border-top: 1px solid #ddd;}
+.border-orange{border:1px solid #ff6d00;}
+.border-ra{border-radius: 0.5rem;}
+.b-radius16{border-radius: 1.6rem;}
+.f-bold{font-weight: 600;}
+.ffamily{font-family: '黑体',"Helvetica Neue",Helvetica,sans-serif;;}
+.of-hidden{overflow: hidden;}
+.bfixed{position: fixed;right:0;top:0;}
+.bor-t{border-top:1px solid #eee;}
+.box-shadow{box-shadow: 0 4px 10px #5c000000;-webkit-box-shadow: 0 4px 10px #5c000000;}
+.tran-duration{
+	transition-duration: 2s;
+	-webkit-transition-duration: 2s;
+	-moz-transition-duration: 2s;
+	-o-transition-duration: 2s;
+	opacity: 1;
+}
+.br-radius{border-radius:0 0 0.3rem 0rem;}
+.bl-radius{border-radius:0 0 0 0.3rem;}
+/*左侧菜单 开始*/
+/*.nav{width:26%;}*/
+.c4dbdad{color:#4dbdad;}
+.nav li a{padding:1.5rem 0;}
+.categoryNumber,.itemNumber,#countNumber,#totalPrice,#totalNumber{font-family: '黑体',"Helvetica Neue",Helvetica,sans-serif;}
+.paRight{position:absolute;right:0.125rem;top:0.003125rem;}
+.slideLine{top:0rem;bottom:0rem;left:0.05rem;background:#f16130;width:0.5rem;border-radius:0.5rem;}
+.circle{top:-.3rem;right:-1.4rem;width:1.5rem;height:1.5rem;line-height:1.5rem;font-size:1.1rem;background: #f35f37;border-radius:50%;}
+.circle2{top:.9rem;right:1.5rem;width:1.5rem;height:1.5rem;line-height:1.5rem;font-size:1.1rem;background: #f35f37;border-radius:50%;}
+/*左侧菜单 结束*/
+
+/*右侧菜单开始*/
+.img{width:7rem;height:6.0rem;}
+.img-reduce,
+.img-add,
+.shop-img-reduce,
+.shop-img-add{width:2.5rem;height:2.5rem;}
+.specifications{width:6.0rem;top:-0.6rem;text-align:center;border-radius: 1.5rem;background: #f98b59;color:#fff;}
+.standard-con,.set-meal{z-index:4;top:20%;left:50%;}
+.set-meal{width:28rem;margin-left: -14rem;}
+.standard-con{width:26rem;margin-left: -13rem;}
+/*右侧菜单结束*/
+
+.topElement{height:2.0rem;background:blue;position:fixed;top:0;left:0;width:100%;}
+/*底部购物车开始*/
+.foot{left:0;bottom:0;width:100%;height:5.0rem;}
+.buy-img{width:1.8rem;}
+.order-list{max-height: 25rem;overflow-y:scroll;}
+.shop_list{bottom:5rem;z-index: 5;}
+.ver-mid{vertical-align: middle;}
+.delete-all{background: url('http://wangposcomm.oss-cn-beijing.aliyuncs.com/hi/meal/remo.png') left center no-repeat;padding-left:1.3rem;background-size:1.15rem 1.4rem;}
+/*底部购物车结束*/
+
+/*第二页，购物车开始*/
+.head{line-height: 5rem;}
+.deskNum{width:70%;height:17.7rem;padding: 0 8%;left:50%;top:50%;margin-top: -8rem;margin-left:-35%;}
+.active{background:#ff6d00;color:#fff;}
+.submitBtn2{background:#ccc;}
+.submitBtn1{background:#ff6d00;}
+.submitBtn1:active,
+.sureBtn:active{background:#ed6703;}
+.cancelBtn:active,
+.submitBtn2:active{background: #ddd;}
+#textarea{outline: none;}
+.resubmit:active,
+.setcancel:active,
+.sure-btn:active,
+.cancel-btn:active{border-radius:0.5rem;}
+/*第二页，购物车结束*/
+
+/*第三页，购物车开始*/
+.ora-r{width: 2.9rem;height:2.9rem;}
+.order{width: 5.5rem;height:5.5rem;}
+.warning{width:16.8rem;height:3.8rem;line-height:3.8rem;left:50%;top:50%;margin-left:-8.4rem;margin-top:-1.9rem;background:rgba(0,0,0,0.8);}
+/*第三页，购物车结束*/
+/*.ora{width:2.9rem;height:2.9rem;}*/
+/*下单确认开始*/
+.bgf2f3f3{background: #f2f3f3;}.w320{width:16.0rem;}
+.header{height:4.5rem;line-height:4.55rem;background: #ffc599;color:#fff;}
+.right_ico{width:2.0rem;height: 2.0rem;vertical-align:middle;}
+.menuList{min-height: 30%;overflow-y:scroll;}
+.back{width:1.5rem;height:2.5rem;}
+.jt1{width:1.0rem;height:1.8rem;}
+.label{border:1px solid #f98b59;border-radius:1.6rem;color:#f98b59;width:4.8rem;padding: 0.2rem 0;}
+.bgeee{background: #eee;}
+.single-product-label{width:28.0rem;height:25rem;z-index:4;top:50%;left:50%;margin-top:-15rem;margin-left: -14rem;}
+.single-product-name{height:5.8rem;line-height: 5.8rem;}
+.lable-product{border-radius: 1.6rem;padding:0.5rem 1.5rem;}
+.lable-product2{border-radius: 1.6rem;padding:0.5rem 1.5rem;border:1px solid #f98b59;color:#f98b59;}
+.lable-product3{border-radius: 1.6rem;padding:0.5rem 2.5rem;}
+.foot{bottom:0;}
+.active-gray:active{background: #ddd;}
+.h114{height:5.7rem;}.h398{height:19.9rem;}.lh114{line-height: 5.7rem}
+.wb50{width:50%;}.w200{width:10.0rem;}
+.eat-way{width:26.0rem;height:16.5rem;z-index:4;top:50%;left:50%;margin-top:-8.25rem;margin-left: -13rem;}
+.time-left,.time-right{overflow-y: scroll;}
+.eat-time{width:26.0rem;height:31.5rem;z-index:4;top:50%;left:50%;margin-top:-15.75rem;margin-left: -13rem;}
+.act{width:1.8rem;height:1.2rem;}
+.per-no-container{width:26.0rem;height:27.0rem;z-index:4;top:50%;left:50%;margin-top:-13.5rem;margin-left: -13rem;}
+.per-no{height:15.4rem;width:100%;}
+.line1,.line2{background: #4dbdad;height:1px;width:6.5rem;z-index: 8;left:10rem;}
+.line1{top:5rem;}
+.line2{top:10rem;}
+.person{top:6.65rem;left:18.5rem;z-index:9;}
+.all-label{width:100%;height:100%;top:0;left:0;}
+.all-label-text{height:14.0rem;width:100%;}
+.bgff6d00;{background: #ff6d00;}
+.btnOk{bottom:1.5rem;left:0;}.b-radius4{border-radius: 0.2rem;}.h98{height:4.9rem;}.lh98{line-height: 4.9rem;}
+/*下单确认结束*/
+/*最后一页开始*/
+.bgradial-or{
+	background:-webkit-radial-gradient(circle,#ff6d00 38%,#ffd3b2 38%,#ffd3b2 100%);
+}
+.bgradial-gray{
+	background:-webkit-radial-gradient(circle,#ccc 38%,#eaeaea 38%,#eaeaea 100%);
+}
+.h1-9{height:1.9rem;}.w180{width:9.0rem;}.wb70{width:3.5rem;}.wb140{width:7.1rem;}.mr97{margin-right:4.85rem;}.mr67{margin-right:3.35rem;}
+.ml-13{margin-left:-13%;}.ml-18{margin-left:-18%;}.ml-47{margin-left: -47%;}
+.round{width:1.9rem;height:1.9rem;border-radius:50%;}
+
+/*加菜*/
+.line{width:92%;height:0;border-top:1px solid #ddd;top:50%;}
+.addItemTitle{left:50%;margin-left:-3.6rem;}
+.left{left:-2.5rem;}.right2{right:-1rem;}
+.center{left:50%;margin-left:-16.65%;}
+/*最后一页结束*/
+/*超时开始*/
+.warn2{width:1.6rem;height:1.6rem;}
+.resub-btn{width:10.0rem;height:3.3rem;line-height: 3.3rem;}
+.resub-btn:active{background: #f3f3f3;border-radius: 0.3rem;}
+/*超时结束*/
+

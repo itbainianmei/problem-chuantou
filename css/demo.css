@@ -1,0 +1,76 @@
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	
+	/*font: 0.4rem/1.5 黑体,Helvetica, Arial, sans-serif;*/
+	font-family: "Helvetica,黑体, Arial, sans-serif";
+}
+
+h2 {
+	line-height: 2.5rem;
+	/*margin-bottom: 1em;*/
+	background: #ecebe9;  /*xinjia*/
+}
+
+pre {
+	background: #fefefe;
+	border: 1px solid #dedede;
+	overflow-x: auto;
+	padding: 2em;
+}
+
+#nav {
+	width:26%;
+	left: 0;
+	list-style: none;
+	margin: 0;
+	position: fixed;
+	top: 0;
+	bottom:5rem;
+	/*overflow-y:scroll;*/
+}
+
+#nav li {
+	/*margin-bottom: 2px;*/
+}
+
+#nav a {
+	-webkit-tap-highlight-color:rgba(255,0,0,0);
+	background: #ededed;
+	display: block;
+	font-size: 0.35rem;
+	/*padding: 0.125rem 0.25rem;*/
+	text-decoration: none;
+	/*text-transform: uppercase;*/
+}
+
+#nav .current a {
+	background: #fff;
+	color: #000;
+}
+
+#container {
+	margin-left: 29.3%;
+	width: 70.6%;
+}
+
+.section {
+	/*border-bottom: 5px solid #ccc;*/
+	/*min-height: 60vh;*/
+	/*padding: 1rem 0rem;*/
+	/*padding: 1.05rem 0rem 0rem;*/
+}
+
+.section p:last-child {
+	margin-bottom: 0;
+}

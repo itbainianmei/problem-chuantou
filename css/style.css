@@ -1,0 +1,10 @@
+.my_content{
+    margin-top: 100px;
+}
+
+
+a.menu_content{
+    color:#ddd;
+}
+
+a.menu_content:hover{color:#ddd;text-underline:none; }
